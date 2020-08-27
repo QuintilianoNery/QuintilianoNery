@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 Meu nome é Quintiliano
 
-Amo muito a área de tecnologia, principalmente as queagilizam o dia a dia do usuário. 
+Amo muito a área de tecnologia, principalmente as que agilizam o dia a dia do usuário. 
 Trabalho atualmente na área de qualidade de Softwares na empresa Tecsystem Tecnologia em Softwares.
 Confira alguns repositórios de estudo que utilizo.
 
