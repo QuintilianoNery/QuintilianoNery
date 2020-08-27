@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá 👋
 
 <!--
 **QuintilianoNery/QuintilianoNery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+Meu nome é Quintiliano
+
+Amo muito a área de tecnologia, principalmente as queagilizam o dia a dia do usuário. 
+Trabalho atualmente na área de qualidade de Softwares na empresa Tecsystem Tecnologia em Softwares.
+Confira alguns repositórios de estudo que utilizo.
+
+Siga-me: [![Linkedin](https://badgen.net/badge/Linkedin/quintilianonery?icon=linkedin)](https://www.linkedin.com/in/quintilianonery/)
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=QuintilianoNery&show_icons=true&hide=[%22prs%22,%22issues%22)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QuintilianoNery)](https://github.com/QuintilianoNery?tab=repositories)
