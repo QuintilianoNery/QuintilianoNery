@@ -23,7 +23,9 @@ Amo muito a área de tecnologia, principalmente as que agilizam o dia a dia do u
 Trabalho atualmente na área de qualidade de Softwares na empresa Tecsystem Tecnologia em Softwares.
 Confira alguns repositórios de estudo que utilizo.
 
-Siga-me: [![Linkedin](https://badgen.net/badge/Linkedin/quintilianonery?icon=linkedin)](https://www.linkedin.com/in/quintilianonery/)
+Siga-me: 
+[![Linkedin](https://badgen.net/badge/Linkedin/quintilianonery?icon=linkedin)](https://www.linkedin.com/in/quintilianonery/)
+[![QA na Tecsystem](https://badgen.net/badge/tecsystem/quintilianonery?icon=linkedin)](https://www.tecsystem.com.br/)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=QuintilianoNery&show_icons=true&hide=[%22prs%22,%22issues%22)
 
