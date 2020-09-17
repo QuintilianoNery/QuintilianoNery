@@ -25,9 +25,8 @@ Confira alguns repositórios de estudo que utilizo.
 
 Siga-me: 
 [![Linkedin](https://badgen.net/badge/Linkedin/quintilianonery?icon=linkedin)](https://www.linkedin.com/in/quintilianonery/)
-[![QA na Tecsystem](https://badgen.net/badge/QA na Tecsystem/quintilianonery?icon=tecsystem)](https://www.tecsystem.com.br/)
-[![Facebook](https://badgen.net/badge/Facebook/quintilianonery?icon=facebook)](https://www.facebook.com/quintiliano.p.nery)
-[![Lattes](https://badgen.net/badge/Currículo Lattes/quintilianonery?icon=lattes)](http://lattes.cnpq.br/8535892156760436)
+
+[![Tecsystem](https://badgen.net/badge/tecsystem/quintilianonery?icon=tecsystem)](https://www.tecsystem.com.br/)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=QuintilianoNery&show_icons=true&hide=[%22prs%22,%22issues%22)
 
