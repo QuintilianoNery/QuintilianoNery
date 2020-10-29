@@ -1,4 +1,4 @@
-### Olá 👋
+### Olá sou Quintiliano👋
 
 <!--
 **QuintilianoNery/QuintilianoNery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-Meu nome é Quintiliano
+
 
 Amo muito a área de tecnologia, principalmente as que agilizam o dia a dia do usuário. 
 Trabalho atualmente na área de qualidade de Softwares na empresa Tecsystem Tecnologia em Softwares.
