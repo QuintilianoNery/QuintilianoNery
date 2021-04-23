@@ -73,6 +73,8 @@ Para uma melhor organização e futura pesquisa de algumas funcionalidades, irei
 - Multi browser
 - cypress-select-tests 
 
+-----
+
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=QuintilianoNery&show_icons=true&hide=[%22prs%22,%22issues%22)
 
