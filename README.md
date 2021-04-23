@@ -1,4 +1,4 @@
-### Olá sou Quintiliano👋
+# Opa, sou o Quintiliano👋 ##
 
 <!--
 **QuintilianoNery/QuintilianoNery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,7 +30,48 @@ Siga-me:
 [![Tecsystem](https://badgen.net/badge/Tecsystem/quintilianonery?icon=Tecsystem)](https://www.tecsystem.com.br/)
 [![Cypress-faq](https://badgen.net/badge/Cypress-faq/quintilianonery?icon=Cypress-faq)](https://github.com/samlucax/cypress-faq)
 
+## Estudos ##
 
+Este repositório é específico para organização de estudos com testes automatizados, utilizando de início Cypress e Robot, juntamente com seus principais plugins e bibliotecas.
+
+Para uma melhor organização e futura pesquisa de algumas funcionalidades, irei criar cada projeto em um repositório, depois irei lincar neste para ficar de uma forma centralizada e facil de encontrar cada funcionalidade ou peculiaridade de estudos, caso necessário para o trabalho.
+
+-----
+
+### Projetos prontos com cypress :cyprus: :white_check_mark: ###
+- Projeto com Allure Report
+- Projeto com CI
+- Projeto com Mocha report
+- Semana Agilizei 2.0
+- Agilizei Youtube
+
+
+### Projetos em andamento com cypress :cyprus: :hammer_and_wrench: ###
+- BootcampCypress-M1
+- Semana Agilizei 3.0
+
+------
+
+### Projetos prontos com Robot :robot: :white_check_mark: ###
+
+
+### Projetos em andamento com Robot :robot: :hammer_and_wrench: ###
+
+-----
+
+### Backlog de estudos :clock4: ###
+
+- Robot framework
+- Relatórios com Robot e sikuli
+- Ci com Robot
+- Allure Reporter com mais detalhes
+- lighthouse
+- Cypress-file-upload
+- Cypress-sonarqube-reporter
+- Visual Regression Testing
+- Parallel cypress
+- Multi browser
+- cypress-select-tests 
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=QuintilianoNery&show_icons=true&hide=[%22prs%22,%22issues%22)
