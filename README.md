@@ -37,7 +37,7 @@ Este repositório é específico para organização de estudos com testes automa
 Para uma melhor organização e futura pesquisa de algumas funcionalidades, irei criar cada projeto em um repositório, depois irei lincar neste para ficar de uma forma centralizada e facil de encontrar cada funcionalidade ou peculiaridade de estudos, caso necessário para o trabalho.
 
 -----
-
+(Ajustar)
 ### Projetos prontos com cypress :cyprus: :white_check_mark: ###
 - Projeto com Allure Report
 - Projeto com CI
