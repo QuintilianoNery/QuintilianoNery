@@ -39,8 +39,7 @@ Para uma melhor organização e futura pesquisa de algumas funcionalidades, irei
 -----
 (Ajustar)
 ### Projetos prontos com cypress :cyprus: :white_check_mark: ###
-- Projeto com Allure Report
-- Projeto com CI
+- [Projeto com Allure Report + CI gh-pages ](https://github.com/QuintilianoNery/DesafioQA)
 - Projeto com Mocha report
 - Semana Agilizei 2.0
 - Agilizei Youtube
