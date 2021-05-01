@@ -2,8 +2,8 @@
 # Sou o Quintiliano e vou te contar um pouco sobre mim! ##
 
 Isso mesmo, meu nome é Quintiliano, um pouco diferente mas legal.
-- 🔭 Atualmente estou trabalhando na empresa Tecsystem Tecnologia em Software como QA, realizando testes manuais e automatizados;
-- 🌱 Gosto muito de estudar e aprender coisas novas, nesse momento aprimirando a criação de testes automatizados com Cypress e aprendendo Robot framework;
+- 🏢 Atualmente estou trabalhando na empresa Tecsystem Tecnologia em Software como QA, realizando testes manuais e automatizados;
+- 📘 Gosto muito de estudar e aprender coisas novas, nesse momento aprimirando a criação de testes automatizados com Cypress e aprendendo Robot framework;
 - 🦾 Estou colaborando com o projeto [cypress-faq](https://github.com/samlucax/cypress-faq) e pretendo participar ajudando com o [Cypress docs pt-br](https://github.com/pedrohyvo/cypress-docs-pt-br);
 - ❤️ Amo muito a área de tecnologia, principalmente as que agilizam o dia a dia do usuário.
 
