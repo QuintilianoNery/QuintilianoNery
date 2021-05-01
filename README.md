@@ -54,6 +54,7 @@ Siga-me:
 - Robot framework
 - Relatórios com Robot e sikuli
 - Ci com Robot
+- cypress-testrail-reporter
 - Allure Reporter com mais detalhes
 - lighthouse
 - Cypress-file-upload
