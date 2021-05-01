@@ -1,27 +1,13 @@
-# Opa, sou o Quintiliano👋 ##
+# Opa, tudo bem? 👋 ##
+# Sou o Quintiliano e vou te contar um pouco sobre mim! ##
 
-<!--
-**QuintilianoNery/QuintilianoNery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Isso mesmo, meu nome é Quintiliano, um pouco diferente mas legal.
+- 🔭 Atualmente estou trabalhando na empresa Tecsystem Tecnologia em Software como QA, realizando testes manuais e automatizados;
+- 🌱 Gosto muito de estudar e aprender coisas novas, nesse momento aprimirando a criação de testes automatizados com Cypress e aprendendo Robot framework;
+- 🦾 Estou colaborando com o projeto [cypress-faq](https://github.com/samlucax/cypress-faq) e pretendo participar ajudando com o [Cypress docs pt-br](https://github.com/pedrohyvo/cypress-docs-pt-br);
+- ❤️ Amo muito a área de tecnologia, principalmente as que agilizam o dia a dia do usuário.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-
-
-Amo muito a área de tecnologia, principalmente as que agilizam o dia a dia do usuário. 
-Trabalho atualmente na área de qualidade de Softwares na empresa Tecsystem Tecnologia em Softwares.
-Confira alguns repositórios de estudo que utilizo.
+-----
 
 Siga-me: 
 [![Linkedin](https://badgen.net/badge/Linkedin/quintilianonery?icon=linkedin)](https://www.linkedin.com/in/quintilianonery/)
@@ -30,12 +16,16 @@ Siga-me:
 [![Tecsystem](https://badgen.net/badge/Tecsystem/quintilianonery?icon=Tecsystem)](https://www.tecsystem.com.br/)
 [![Cypress-faq](https://badgen.net/badge/Cypress-faq/quintilianonery?icon=Cypress-faq)](https://github.com/samlucax/cypress-faq)
 
+## Motivo pelo qual estou organizando meus repositórios##
+- Na área da tecnologia, desenvolvimento e qualidade de softwares, todos os dias acabo conhecendo novas ferramentas ou descobrindo framework ou bibliotecas que podem ajudar no dia a dia de trabalho, com isso eu realizo os estudos e nem sempre são empregados no trabalho de imediato, ficando as vezes difícil de encontrar como resolver determinado problema com uma solução que já tinha estudado. Por isso criei esse repositório, uma forma de compartilhar soluções e repositórios que usei em estudos e facilitar o trabalho na hora de encontrar algo.
+
+-  Geralmente acompanho as novidades das ferramentas que estou estudando em comunidades do Telegran, WhatsApp, Linkedin ou até mesmo no Youtube, com isso vou vendo o que o pessoal está conversando e comentando, com isso o que for relevante para estudo, anoto e coloco no meu Backlog de estudos.
+
+- Este repositório é específico para organização de estudos com testes automatizados, utilizando de início Cypress e Robot, juntamente com seus principais plugins e bibliotecas.
+
 ## Estudos ##
 
-Este repositório é específico para organização de estudos com testes automatizados, utilizando de início Cypress e Robot, juntamente com seus principais plugins e bibliotecas.
-
-Para uma melhor organização e futura pesquisa de algumas funcionalidades, irei criar cada projeto em um repositório, depois irei lincar neste para ficar de uma forma centralizada e facil de encontrar cada funcionalidade ou peculiaridade de estudos, caso necessário para o trabalho.
-
+- Para uma melhor organização e futura pesquisa de algumas funcionalidades, irei criar cada projeto em um repositório, depois irei lincar neste para ficar de uma forma centralizada e facil de encontrar cada funcionalidade ou peculiaridade de estudos, caso necessário para o trabalho.
 -----
 (Ajustar)
 ### Projetos prontos com cypress :cyprus: :white_check_mark: ###
@@ -45,7 +35,6 @@ Para uma melhor organização e futura pesquisa de algumas funcionalidades, irei
 - Projeto com Mocha report
 - Semana Agilizei 2.0
 - Agilizei Youtube
-
 
 ### Projetos em andamento com cypress :cyprus: :hammer_and_wrench: ###
 - BootcampCypress-M1
