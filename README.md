@@ -25,7 +25,7 @@ Siga-me:
 
 ## Estudos ##
 
-- Para uma melhor organização e futura pesquisa de algumas funcionalidades, irei criar cada projeto em um repositório, depois irei lincar neste para ficar de uma forma centralizada e facil de encontrar cada funcionalidade ou peculiaridade de estudos, caso necessário para o trabalho.
+- Para uma melhor organização e futura pesquisa de algumas funcionalidades, irei criar cada projeto em um repositório, depois irei lincar neste para ficar de uma forma centralizada e fácil de encontrar cada funcionalidade ou peculiaridade de estudos, caso necessário para o trabalho.
 
 (Organizando...)
 ### Projetos prontos com cypress :cyprus: :white_check_mark: ###
