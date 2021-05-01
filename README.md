@@ -16,7 +16,7 @@ Siga-me:
 [![Tecsystem](https://badgen.net/badge/Tecsystem/quintilianonery?icon=Tecsystem)](https://www.tecsystem.com.br/)
 [![Cypress-faq](https://badgen.net/badge/Cypress-faq/quintilianonery?icon=Cypress-faq)](https://github.com/samlucax/cypress-faq)
 
-## Motivo pelo qual estou organizando meus repositórios##
+## Motivo pelo qual estou organizando meus repositórios ##
 - Na área da tecnologia, desenvolvimento e qualidade de softwares, todos os dias acabo conhecendo novas ferramentas ou descobrindo framework ou bibliotecas que podem ajudar no dia a dia de trabalho, com isso eu realizo os estudos e nem sempre são empregados no trabalho de imediato, ficando as vezes difícil de encontrar como resolver determinado problema com uma solução que já tinha estudado. Por isso criei esse repositório, uma forma de compartilhar soluções e repositórios que usei em estudos e facilitar o trabalho na hora de encontrar algo.
 
 -  Geralmente acompanho as novidades das ferramentas que estou estudando em comunidades do Telegran, WhatsApp, Linkedin ou até mesmo no Youtube, com isso vou vendo o que o pessoal está conversando e comentando, com isso o que for relevante para estudo, anoto e coloco no meu Backlog de estudos.
