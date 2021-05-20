@@ -63,7 +63,8 @@ Siga-me:
 - Parallel cypress
 - Multi browser
 - cypress-select-tests 
-
+- Selenium
+- Testes com ruby
 -----
 
 
