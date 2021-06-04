@@ -2,7 +2,7 @@
 # Sou o Quintiliano e vou te contar um pouco sobre mim! ##
 
 Isso mesmo, meu nome é Quintiliano, um pouco diferente mas legal.
-- 🏢 Atualmente estou trabalhando na empresa Tecsystem Tecnologia em Software como QA, realizando testes manuais e automatizados;
+- 🏢 Atualmente estou trabalhando na empresa Paschoalotto Serviços Financeiros S/A, realizando testes automatizados com Ruby;
 - 📘 Gosto muito de estudar e aprender coisas novas, nesse momento aprimorando a criação de testes automatizados com Cypress e aprendendo Robot framework;
 - 🦾 Estou colaborando com o projeto [cypress-faq](https://github.com/samlucax/cypress-faq) e pretendo participar ajudando com o [Cypress docs pt-br](https://github.com/pedrohyvo/cypress-docs-pt-br);
 - ❤️ Amo muito a área de tecnologia, principalmente as que agilizam o dia a dia do usuário.
@@ -13,7 +13,7 @@ Siga-me:
 [![Linkedin](https://badgen.net/badge/Linkedin/quintilianonery?icon=linkedin)](https://www.linkedin.com/in/quintilianonery/)
 [![Facebook](https://badgen.net/badge/Facebook/quintilianonery?icon=Facebook)](https://www.facebook.com/quintiliano.p.nery)
 [![Lattes](https://badgen.net/badge/Lattes/quintilianonery?icon=Lattes)](http://lattes.cnpq.br/8535892156760436)
-[![Tecsystem](https://badgen.net/badge/Tecsystem/quintilianonery?icon=Tecsystem)](https://www.tecsystem.com.br/)
+[![Tecsystem](https://badgen.net/badge/Paschoalotto/quintilianonery?icon=Paschoalotto)](https://www.paschoalotto.com.br/)
 [![Cypress-faq](https://badgen.net/badge/Cypress-faq/quintilianonery?icon=Cypress-faq)](https://github.com/samlucax/cypress-faq)
 
 ## Motivo pelo qual estou organizando meus repositórios ##
@@ -51,6 +51,7 @@ Siga-me:
 
 ### Backlog de estudos :clock4: ###
 
+- Ruby com Cucumber
 - Robot framework
 - Relatórios com Robot e sikuli
 - Ci com Robot
