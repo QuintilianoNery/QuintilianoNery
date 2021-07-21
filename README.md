@@ -31,7 +31,8 @@ Siga-me:
 ### Projetos prontos com Ruby ♦️ :white_check_mark:
 
 ### Projetos em andamento com Roby ♦️ :hammer_and_wrench:
-- [QNW - Youtube](https://github.com/QuintilianoNery/AutomacaoRuby-QNW5)
+- [QaNinja-180](https://github.com/QuintilianoNery/QaNinja-180)
+- [QNW 5 - Youtube](https://github.com/QuintilianoNery/AutomacaoRuby-QNW5)
 
 ------
 
