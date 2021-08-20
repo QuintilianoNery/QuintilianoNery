@@ -12,7 +12,6 @@ Isso mesmo, meu nome é Quintiliano, um pouco diferente mas legal.
 Siga-me: 
 [![Linkedin](https://badgen.net/badge/Linkedin/quintilianonery?icon=linkedin)](https://www.linkedin.com/in/quintilianonery/)
 [![Facebook](https://badgen.net/badge/Facebook/quintilianonery?icon=Facebook)](https://www.facebook.com/quintiliano.p.nery)
-[![Lattes](https://badgen.net/badge/Lattes/quintilianonery?icon=Lattes)](http://lattes.cnpq.br/8535892156760436)
 [![Tecsystem](https://badgen.net/badge/Paschoalotto/quintilianonery?icon=Paschoalotto)](https://www.paschoalotto.com.br/)
 [![Cypress-faq](https://badgen.net/badge/Cypress-faq/quintilianonery?icon=Cypress-faq)](https://github.com/samlucax/cypress-faq)
 
