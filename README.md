@@ -76,6 +76,4 @@ Siga-me:
 - Testes com ruby
 -----
 
-![Github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QuintilianoNery&theme=monokai)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QuintilianoNery)](https://github.com/QuintilianoNery?tab=repositories)
+![Quintiliano Nery github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QuintilianoNery&theme=solarized_dark)
