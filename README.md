@@ -53,7 +53,7 @@ Siga-me:
 
 
 ### Projetos em andamento com Robot :robot: :hammer_and_wrench: ###
-
+- [AutomacaoRobot-Parodify](https://github.com/QuintilianoNery/AutomacaoRobot-Parodify)
 -----
 
 ### Backlog de estudos :clock4: ###
