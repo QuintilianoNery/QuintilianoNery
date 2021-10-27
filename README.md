@@ -25,14 +25,6 @@ Siga-me:
 ## Estudos ##
 
 - Para uma melhor organização e futura pesquisa de algumas funcionalidades, irei criar cada projeto em um repositório, depois irei lincar neste para ficar de uma forma centralizada e fácil de encontrar cada funcionalidade ou peculiaridade de estudos, caso necessário para o trabalho.
-
-------
-### Projetos prontos com Ruby ♦️ :white_check_mark:
-
-### Projetos em andamento com Roby ♦️ :hammer_and_wrench:
-- [QaNinja-180](https://github.com/QuintilianoNery/QaNinja-180)
-- [QNW 5 - Youtube](https://github.com/QuintilianoNery/AutomacaoRuby-QNW5)
-
 ------
 
 (Organizando...)
@@ -49,6 +41,13 @@ Siga-me:
 - Semana Agilizei 3.0
 
 ------
+### Projetos prontos com Ruby ♦️ :white_check_mark:
+
+### Projetos em andamento com Roby ♦️ :hammer_and_wrench:
+- [QaNinja-180](https://github.com/QuintilianoNery/QaNinja-180)
+- [QNW 5 - Youtube](https://github.com/QuintilianoNery/AutomacaoRuby-QNW5)
+
+------
 
 ### Projetos prontos com Robot :robot: :white_check_mark: ###
 
@@ -59,21 +58,20 @@ Siga-me:
 
 ### Backlog de estudos :clock4: ###
 
-- Ruby com Cucumber
-- Robot framework
-- Relatórios com Robot e sikuli
-- Ci com Robot
-- cypress-testrail-reporter
 - Allure Reporter com mais detalhes
-- lighthouse
+- Cypress-lighthouse
 - Cypress-file-upload
 - Cypress-sonarqube-reporter
 - Visual Regression Testing
 - Parallel cypress
 - Multi browser
-- cypress-select-tests 
-- Selenium
+- cypress-select-tests
+- Selenium 
 - Testes com ruby
+- Ruby com Cucumber
+- Robot framework
+- Relatórios com Robot e sikuli
+- Ci com Robot
 -----
 
 ![Quintiliano Nery github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QuintilianoNery&theme=solarized_dark)
