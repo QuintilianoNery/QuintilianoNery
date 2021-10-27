@@ -72,6 +72,9 @@ Siga-me:
 - Robot framework
 - Relatórios com Robot e sikuli
 - Ci com Robot
+- Prefendo realizar a primeira certificação CTFL em Qualidade de Software
+- Realizar a pós graduação em Engenharia da Qualidade de Software
+
 -----
 
 ![Quintiliano Nery github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=QuintilianoNery&theme=solarized_dark)
