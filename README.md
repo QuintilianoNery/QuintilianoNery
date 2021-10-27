@@ -27,18 +27,17 @@ Siga-me:
 - Para uma melhor organização e futura pesquisa de algumas funcionalidades, irei criar cada projeto em um repositório, depois irei lincar neste para ficar de uma forma centralizada e fácil de encontrar cada funcionalidade ou peculiaridade de estudos, caso necessário para o trabalho.
 ------
 
-(Organizando...)
 ### Projetos prontos com cypress :cyprus: :white_check_mark: ###
 - [Projeto com DesafioQA](https://github.com/QuintilianoNery/DesafioQA)
   - [CI](https://github.com/QuintilianoNery/DesafioQA/actions)
   - [Allure-Reporter sendo exibido no gh-pages](https://github.com/QuintilianoNery/DesafioQA/deployments/activity_log?environment=github-pages)
-- Projeto com Mocha report
-- Semana Agilizei 2.0
-- Agilizei Youtube
+  - [Projeto com Mocha report](https://github.com/QuintilianoNery/TesteCypress-SemanaAgilizei2.0/deployments/activity_log?environment=github-pages)
+  - [Semana Agilizei 2.0](https://github.com/QuintilianoNery/TesteCypress-SemanaAgilizei2.0)
+  - [Agilizei Youtube](https://github.com/QuintilianoNery/TesteCypress-Agilizei/blob/origin/README.md)
 
 ### Projetos em andamento com cypress :cyprus: :hammer_and_wrench: ###
-- BootcampCypress-M1
-- Semana Agilizei 3.0
+- [BootcampCypress-M1](https://github.com/QuintilianoNery/BootcampCypress-M1)
+- [Semana Agilizei 3.0](https://github.com/QuintilianoNery/TesteCypress-SemanaAgilizei3.0)
 
 ------
 ### Projetos prontos com Ruby ♦️ :white_check_mark:
