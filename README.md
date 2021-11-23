@@ -30,8 +30,8 @@ Siga-me:
 ### Projetos prontos com cypress :cyprus: :white_check_mark: ###
 - [Projeto com DesafioQA](https://github.com/QuintilianoNery/DesafioQA)
   - [CI](https://github.com/QuintilianoNery/DesafioQA/actions)
-- [Allure-Reporter sendo exibido no gh-pages](https://github.com/QuintilianoNery/DesafioQA/deployments/activity_log?environment=github-pages)
-- [Projeto com Mocha report](https://github.com/QuintilianoNery/TesteCypress-SemanaAgilizei2.0/deployments/activity_log?environment=github-pages)
+  - [Allure-Reporter sendo exibido no gh-pages](https://github.com/QuintilianoNery/DesafioQA/deployments/activity_log?environment=github-pages)
+  - [Projeto com Mocha report](https://github.com/QuintilianoNery/TesteCypress-SemanaAgilizei2.0/deployments/activity_log?environment=github-pages)
 - [Semana Agilizei 2.0](https://github.com/QuintilianoNery/TesteCypress-SemanaAgilizei2.0)
 - [Agilizei Youtube](https://github.com/QuintilianoNery/TesteCypress-Agilizei/blob/origin/README.md)
 
