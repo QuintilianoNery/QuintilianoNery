@@ -70,7 +70,7 @@ Siga-me:
 - Robot framework
 - Relatórios com Robot e sikuli
 - Ci com Robot
-- Prefendo realizar a primeira certificação CTFL em Qualidade de Software
+- Pretendo realizar a primeira certificação CTFL em Qualidade de Software
 - Realizar a pós graduação em Engenharia da Qualidade de Software
 
 -----
