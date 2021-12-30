@@ -25,6 +25,10 @@ Siga-me:
 ## Estudos ##
 
 - Para uma melhor organização e futura pesquisa de algumas funcionalidades, irei criar cada projeto em um repositório, depois irei listar aqui para ficar uma forma centralizada e fácil de encontrar cada funcionalidade ou peculiaridade de estudos, caso necessário para o trabalho.
+
+------
+### Formação Ebac 📚
+- [Formação Engenheiro de Qualidade de Software](https://github.com/QuintilianoNery/exercicios-ebac)
 ------
 
 ### Projetos prontos com cypress :cyprus: :white_check_mark: ###
