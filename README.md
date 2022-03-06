@@ -2,7 +2,7 @@
 # Sou o Quintiliano e vou te contar um pouco sobre mim! ##
 
 Isso mesmo, meu nome é Quintiliano, um pouco diferente mas legal.
-- 🏢 Atualmente estou trabalhando na empresa Paschoalotto Serviços Financeiros S/A, realizando testes automatizados com Ruby;
+- 🏢 Atualmente estou trabalhando na empresa Take Blip;
 - 📘 Gosto muito de estudar e aprender coisas novas, nesse momento aprimorando a criação de testes automatizados com Cypress, aprendendo Robot framework e testes com Ruby;
 - 💪 Estou colaborando com o projeto [cypress-faq](https://github.com/samlucax/cypress-faq) e pretendo participar ajudando com o [Cypress docs pt-br](https://github.com/pedrohyvo/cypress-docs-pt-br);
 - ❤️ Amo muito a área de tecnologia, principalmente as que agilizam o dia a dia do usuário.
