@@ -27,6 +27,7 @@ Siga-me:
 ------
 ### Formação Ebac 📚
 - [Formação Engenheiro de Qualidade de Software](https://github.com/QuintilianoNery/exercicios-ebac)
+- [Exercicios_Ebac_UI_Cypress](https://github.com/QuintilianoNery/Exercicios_Ebac_UI_Cypress)
 ------
 
 ### Projetos prontos com cypress :cyprus: :white_check_mark: ###
