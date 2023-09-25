@@ -51,7 +51,7 @@ Siga-me:
 
 ### Projetos prontos com Robot :robot: :white_check_mark: ###
 - [Teste App com Robot e Appium](https://github.com/QuintilianoNery/test_mobile_appium)
-- [Teste Conversacional com Robot e appium no Whatsapp]()
+- [Teste Conversacional com Robot e appium no Whatsapp](https://github.com/QuintilianoNery/Robot_Appium_Teste_conversacional)
 
 ### Projetos em andamento com Robot :robot: :hammer_and_wrench: ###
 - [AutomacaoRobot-Parodify](https://github.com/QuintilianoNery/AutomacaoRobot-Parodify)
